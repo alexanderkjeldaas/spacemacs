@@ -147,7 +147,7 @@ See the [[http://flycheck.readthedocs.org/en/latest/guide/languages.html#el.flyc
 | ~SPC m g g~ | go to definition     |
 | ~SPC m g i~ | go to implementation |
 | ~SPC m g t~ | go to test           |
-| ?????       | go back              |
+| ~SPC m g p~ | go back (pop)        |
 
 *** Documentation, Inspect
 
